@@ -1,0 +1,92 @@
+2026/03/26 15:45:28
+[Errno 2] No such file or directory: 'config.txt'
+
+
+2026/03/26 15:49:37
+HTTPSConnectionPool(host='api.sinopac.com', port=443): Max retries exceeded with url: /funBIZ/QPay.WebAPI/api/Nonce (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+
+
+2026/03/26 15:57:58
+HTTPSConnectionPool(host='api.sinopac.com', port=443): Max retries exceeded with url: /funBIZ/QPay.WebAPI/api/Nonce (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+
+
+2026/03/26 16:02:15
+HTTPSConnectionPool(host='api.sinopac.com', port=443): Max retries exceeded with url: /funBIZ/QPay.WebAPI/api/Nonce (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1081)')))
+
+
+2026/03/26 16:03:12
+'Nonce'
+
+
+2026/03/26 16:09:58
+'Nonce'
+
+
+2026/03/26 16:14:36
+'Nonce'
+
+
+2026/03/26 16:14:45
+'Nonce'
+
+
+2026/03/26 16:15:16
+'Nonce'
+
+
+2026/03/26 16:20:06
+'Nonce'
+
+
+2026/03/26 16:20:17
+'Nonce'
+
+
+2026/03/26 16:20:42
+name 'printf' is not defined
+
+
+2026/03/26 16:20:50
+'Nonce'
+
+
+2026/03/26 16:21:10
+'Nonce'
+
+
+2026/03/26 16:47:20
+list index out of range
+
+
+2026/03/26 16:47:29
+list index out of range
+
+
+2026/03/26 16:50:15
+list index out of range
+
+
+2026/03/26 16:50:52
+list index out of range
+
+
+2026/03/26 16:51:07
+list index out of range
+
+
+2026/03/26 16:52:08
+list index out of range
+
+
+2026/03/26 16:52:16
+'Nonce'
+
+
+2026/03/26 16:55:49
+list index out of range
+
+
+2026/03/26 16:55:55
+'Nonce'
+
+
