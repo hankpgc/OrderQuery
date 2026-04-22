@@ -1,6 +1,9 @@
 2026/03/26 16:52:16
-- shop_data: {'ShopNo': 'DA3783_001', 'OrderNo': '79900', 'Amount': 7990000, 'CurrencyID': 'TWD', 'PayType': 'A', 'QRCodeStatus': 'Y', 'QRCodeSize': 350, 'ATMParam': {'ExpireDate': '20260425'}, 'CardParam': {}, 'PrdtName': 'µêÀÀ±b¸¹­q³æ', 'ReturnURL': 'https://www.erpkc.com/wh/ERP/WR/BOP.asp', 'BackendURL': 'https://www.erpkc.com/wh/erp/wr/SINOReturn.asp'}
+- shop_data: {'ShopNo': 'DA3783_001', 'OrderNo': '79900', 'Amount': 7990000, 'CurrencyID': 'TWD', 'PayType': 'A', 'QRCodeStatus': 'Y', 'QRCodeSize': 350, 'ATMParam': {'ExpireDate': '20260425'}, 'CardParam': {}, 'PrdtName': 'ï¿½ï¿½ï¿½ï¿½ï¿½bï¿½ï¿½ï¿½qï¿½ï¿½', 'ReturnURL': 'https://www.erpkc.com/wh/ERP/WR/BOP.asp', 'BackendURL': 'https://www.erpkc.com/wh/erp/wr/SINOReturn.asp'}
 
 2026/03/26 16:55:55
-- shop_data: {'ShopNo': 'DA3783_001', 'OrderNo': '9', 'Amount': 790000, 'CurrencyID': 'TWD', 'PayType': 'A', 'QRCodeStatus': 'Y', 'QRCodeSize': 350, 'ATMParam': {'ExpireDate': '20260425'}, 'CardParam': {}, 'PrdtName': 'µêÀÀ±b¸¹­q³æ', 'ReturnURL': 'https://www.erpkc.com/wh/ERP/WR/BOP.asp', 'BackendURL': 'https://www.erpkc.com/wh/erp/wr/SINOReturn.asp'}
+- shop_data: {'ShopNo': 'DA3783_001', 'OrderNo': '9', 'Amount': 790000, 'CurrencyID': 'TWD', 'PayType': 'A', 'QRCodeStatus': 'Y', 'QRCodeSize': 350, 'ATMParam': {'ExpireDate': '20260425'}, 'CardParam': {}, 'PrdtName': 'ï¿½ï¿½ï¿½ï¿½ï¿½bï¿½ï¿½ï¿½qï¿½ï¿½', 'ReturnURL': 'https://www.erpkc.com/wh/ERP/WR/BOP.asp', 'BackendURL': 'https://www.erpkc.com/wh/erp/wr/SINOReturn.asp'}
+
+2026/03/26 16:55:55
+- shop_data: {'ShopNo': 'DA3783_001', 'OrderNo': '9', 'Amount': 790000, 'CurrencyID': 'TWD', 'PayType': 'A', 'QRCodeStatus': 'Y', 'QRCodeSize': 350, 'ATMParam': {'ExpireDate': '20260425'}, 'CardParam': {}, 'PrdtName': 'ï¿½ï¿½ï¿½ï¿½ï¿½bï¿½ï¿½ï¿½qï¿½ï¿½', 'ReturnURL': 'https://www.erpkc.com/wh/ERP/WR/BOP.asp', 'BackendURL': 'https://www.erpkc.com/wh/erp/wr/SINOReturn.asp'}
 
