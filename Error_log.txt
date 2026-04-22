@@ -5,7 +5,6 @@
 2026/03/26 15:49:37
 HTTPSConnectionPool(host='api.sinopac.com', port=443): Max retries exceeded with url: /funBIZ/QPay.WebAPI/api/Nonce (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
 
-
 2026/03/26 15:57:58
 HTTPSConnectionPool(host='api.sinopac.com', port=443): Max retries exceeded with url: /funBIZ/QPay.WebAPI/api/Nonce (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
 
